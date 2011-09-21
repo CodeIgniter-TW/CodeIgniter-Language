@@ -20,4 +20,4 @@ $lang['imglib_missing_font'] = '無法找到可用字型.';
 $lang['imglib_save_failed'] = '無法儲存檔案.  請確認圖片或目錄是可寫入.';
 
 /* End of file imglib_lang.php */
-/* Location: ./system/language/zh_tw/imglib_lang.php */
+/* Location: ./system/language/zh-TW/imglib_lang.php */

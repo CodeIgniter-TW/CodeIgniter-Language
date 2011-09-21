@@ -21,4 +21,4 @@ $lang['email_exit_status'] = '離開狀態代碼: %s';
 
 
 /* End of file email_lang.php */
-/* Location: ./system/language/zh_tw/email_lang.php */
+/* Location: ./system/language/zh-TW/email_lang.php */

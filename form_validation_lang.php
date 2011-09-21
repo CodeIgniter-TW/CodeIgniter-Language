@@ -24,4 +24,4 @@ $lang['less_than'] = '%s 數字大小必須小於 %s';
 $lang['greater_than'] = '%s 數字大小必須大於 %s.';
 
 /* End of file form_validation_lang.php */
-/* Location: ./system/language/zh_tw/form_validation_lang.php */
+/* Location: ./system/language/zh-TW/form_validation_lang.php */

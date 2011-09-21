@@ -22,4 +22,4 @@ $lang['ut_notes'] = '備註';
 
 
 /* End of file unit_test_lang.php */
-/* Location: ./system/language/zh_tw/unit_test_lang.php */
+/* Location: ./system/language/zh-TW/unit_test_lang.php */

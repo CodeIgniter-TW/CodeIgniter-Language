@@ -26,4 +26,4 @@ $lang['db_unable_to_set_charset'] = '無法設定用戶端連結字元: %s';
 $lang['db_error_heading'] = '資料庫錯誤發生';
 
 /* End of file db_lang.php */
-/* Location: ./system/language/zh_tw/db_lang.php */
+/* Location: ./system/language/zh-TW/db_lang.php */

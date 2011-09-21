@@ -14,4 +14,4 @@ $lang['ftp_unable_to_delete'] = '無法刪除檔案.';
 $lang['ftp_unable_to_move'] = '無法移動檔案. 請確定目的地資料夾是否存在.';
 
 /* End of file ftp_lang.php */
-/* Location: ./system/language/zh_tw/ftp_lang.php */
+/* Location: ./system/language/zh-TW/ftp_lang.php */

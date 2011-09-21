@@ -22,4 +22,4 @@ $lang['profiler_section_hide']	= '隱藏';
 $lang['profiler_section_show']	= '顯示';
 
 /* End of file profiler_lang.php */
-/* Location: ./system/language/zh_tw/profiler_lang.php */
+/* Location: ./system/language/zh-TW/profiler_lang.php */
