@@ -19,6 +19,5 @@ $lang['email_smtp_auth_pw'] = '認證使用者密碼失敗. 錯誤訊息: %s';
 $lang['email_smtp_data_failure'] = '無法發送資料: %s';
 $lang['email_exit_status'] = '離開狀態代碼: %s';
 
-
 /* End of file email_lang.php */
 /* Location: ./system/language/zh-TW/email_lang.php */

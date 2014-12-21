@@ -20,6 +20,5 @@ $lang['ut_resource'] = '資源';
 $lang['ut_null'] = '無';
 $lang['ut_notes'] = '備註';
 
-
 /* End of file unit_test_lang.php */
 /* Location: ./system/language/zh-TW/unit_test_lang.php */

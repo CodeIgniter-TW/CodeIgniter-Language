@@ -8,6 +8,5 @@ $lang['migration_missing_up_method'] = "Migration 類別 \"%s\" i缺少 'up' 方
 $lang['migration_missing_down_method'] = "Migration 類別 \"%s\" 缺少 'down' 方法";
 $lang['migration_invalid_filename'] = "Migration \"%s\" 包含無效的欄位名稱";
 
-
 /* End of file migration_lang.php */
 /* Location: ./system/language/zh-TW/migration_lang.php */
