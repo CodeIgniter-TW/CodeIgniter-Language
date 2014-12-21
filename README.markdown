@@ -1,5 +1,7 @@
 # Translations for CodeIgniter System Messages
 
+This project contains translations for the CodeIgniter system messages folder, system/language/traditional-chinese.
+
 ## Requirements
 
 Please use `2.x` branch for CodeIgniter 2.x, `master` branch for CodeIgniter 3.0.
@@ -8,7 +10,7 @@ Please use `2.x` branch for CodeIgniter 2.x, `master` branch for CodeIgniter 3.0
 
 ```bash
 $ cd codeigniter_path
-$ git clone https://github.com/CodeIgniter-TW/CodeIgniter-Language.git application/language/zh_tw
+$ git clone https://github.com/CodeIgniter-TW/CodeIgniter-Language.git application/language/traditional-chinese
 ```
 
 or download source zip file https://github.com/CodeIgniter-TW/CodeIgniter-Language/downloads
@@ -24,5 +26,5 @@ $config['language'] = 'en';
 relace
 
 ```php
-$config['language'] = 'zh-tw';
+$config['language'] = 'traditional-chinese';
 ```
