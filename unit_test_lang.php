@@ -1,25 +1,62 @@
 <?php
 
-$lang['ut_test_name'] = 'æ¸¬è©¦åç¨±';
-$lang['ut_test_datatype'] = 'æ¸¬è©¦é¡žåž‹';
-$lang['ut_res_datatype'] = 'é æœŸé¡žåž‹';
-$lang['ut_result'] = 'çµæžœ';
-$lang['ut_undefined'] = 'æœªå®šç¾©æ¸¬è©¦åç¨±';
-$lang['ut_file'] = 'æª”æ¡ˆåç¨±';
-$lang['ut_line'] = 'è¡Œæ•¸';
-$lang['ut_passed'] = 'é€šéŽ';
-$lang['ut_failed'] = 'æœªé€šéŽ';
-$lang['ut_boolean'] = 'å¸ƒæž—å€¼';
-$lang['ut_integer'] = 'æ•´æ•¸';
-$lang['ut_float'] = 'æµ®é»žæ•¸';
-$lang['ut_double'] = 'å€ç²¾åº¦æµ®é»žæ•¸';
-$lang['ut_string'] = 'å­—ä¸²';
-$lang['ut_array'] = 'é™£åˆ—';
-$lang['ut_object'] = 'ç‰©ä»¶';
-$lang['ut_resource'] = 'è³‡æº';
-$lang['ut_null'] = 'ç„¡';
-$lang['ut_notes'] = 'å‚™è¨»';
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP 5.2.4 or newer
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	http://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
+$lang['ut_test_name'] = 'œyÔ‡Ãû·Q';
+$lang['ut_test_datatype'] = 'œyÔ‡µÄÙYÁÏîÐÍ';
+$lang['ut_res_datatype'] = 'ÆÚÍûµÄÙYÁÏîÐÍ';
+$lang['ut_result'] = '½Y¹û';
+$lang['ut_undefined'] = 'Î´¶¨ÁxµÄœyÔ‡Ãû·Q';
+$lang['ut_file'] = '™n°¸Ãû·Q';
+$lang['ut_line'] = 'ÐÐÌ–';
+$lang['ut_passed'] = 'Í¨ß^';
+$lang['ut_failed'] = 'Ê§”¡';
+$lang['ut_boolean'] = 'Boolean';
+$lang['ut_integer'] = 'Integer';
+$lang['ut_float'] = 'Float';
+$lang['ut_double'] = 'Double'
+$lang['ut_string'] = 'String';
+$lang['ut_array'] = 'Array';
+$lang['ut_object'] = 'Object';
+$lang['ut_resource'] = 'Resource';
+$lang['ut_null'] = 'Null';
+$lang['ut_notes'] = '¹PÓ›';
 
 /* End of file unit_test_lang.php */
-/* Location: ./system/language/zh-TW/unit_test_lang.php */
+/* Location: ./application/language/traditional-chinese/unit_test_lang.php */
