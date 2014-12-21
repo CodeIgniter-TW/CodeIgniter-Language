@@ -1,24 +1,28 @@
-Requirements
-============
+# Translations for CodeIgniter System Messages
 
-CodeIgniter 2.x.x http://codeigniter.org.tw
+## Requirements
 
-Installation
-============
+Please use `2.x` branch for CodeIgniter 2.x, `master` branch for CodeIgniter 3.0.
 
-    $ cd codeigniter_path
-    $ mkdir system/language/zh_tw
-    $ cd system/language/zh_tw
-    $ git clone https://github.com/CodeIgniter-TW/CodeIgniter-Language.git
-    
+## Installation
+
+```bash
+$ cd codeigniter_path
+$ git clone https://github.com/CodeIgniter-TW/CodeIgniter-Language.git application/language/zh_tw
+```
+
 or download source zip file https://github.com/CodeIgniter-TW/CodeIgniter-Language/downloads
 
 modified your applicaion/config/config.php
 
-find 
+find
 
-    $config['language']	= 'en';
-    
+```php
+$config['language'] = 'en';
+```
+
 relace
 
-    $config['language']	= 'zh-tw';
+```php
+$config['language'] = 'zh-tw';
+```
