@@ -36,7 +36,7 @@
  * @since	Version 1.0.0
  * @filesource
  */
-defined('BASEPATH') or exit('No direct script access allowed');
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['ut_test_name'] = '測試名稱';
 $lang['ut_test_datatype'] = '測試的資料類型';

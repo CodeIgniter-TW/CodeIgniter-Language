@@ -36,7 +36,7 @@
  * @since	Version 1.0.0
  * @filesource
  */
-defined('BASEPATH') or exit('No direct script access allowed');
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['email_must_be_array'] = 'E-mail 驗證方法必須傳入一個 Array';
 $lang['email_invalid_address'] = '無效的 E-mail 地址：%s';

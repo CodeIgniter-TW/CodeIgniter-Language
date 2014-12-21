@@ -36,7 +36,7 @@
  * @since	Version 1.0.0
  * @filesource
  */
-defined('BASEPATH') or exit('No direct script access allowed');
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['ftp_no_connection'] = '無法找到一個有效的連線 ID。在執行任何檔案傳輸時請確認已經連線成功';
 $lang['ftp_unable_to_connect'] = '無法使用提供的主機名稱連接到 FTP 伺服器';

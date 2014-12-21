@@ -36,7 +36,7 @@
  * @since	Version 1.0.0
  * @filesource
  */
-defined('BASEPATH') or exit('No direct script access allowed');
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['upload_userfile_not_set'] = '無法找到送出變數中檔案';
 $lang['upload_file_exceeds_limit'] = '上傳檔案超出PHP限制最大檔案';

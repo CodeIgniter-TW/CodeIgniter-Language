@@ -36,7 +36,7 @@
  * @since	Version 3.0.0
  * @filesource
  */
-defined('BASEPATH') or exit('No direct script access allowed');
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['migration_none_found'] = '沒有發現任何遷移';
 $lang['migration_not_found'] = '無法根據版本號碼 %s 找到遷移方法';

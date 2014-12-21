@@ -36,7 +36,7 @@
  * @since	Version 1.0.0
  * @filesource
  */
-defined('BASEPATH') or exit('No direct script access allowed');
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['db_invalid_connection_str'] = '無法根據送出的連接字串確定資料庫設定';
 $lang['db_unable_to_connect'] = '無法使用提供的設定連接到資料庫伺服器';

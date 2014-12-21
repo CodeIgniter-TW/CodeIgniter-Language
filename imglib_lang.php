@@ -36,7 +36,7 @@
  * @since	Version 1.0.0
  * @filesource
  */
-defined('BASEPATH') or exit('No direct script access allowed');
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['imglib_source_image_required'] = '必須在設定中指定一個來源圖檔';
 $lang['imglib_gd_required'] = '此功能依賴 GD 圖形函式庫';
